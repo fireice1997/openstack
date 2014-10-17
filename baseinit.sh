@@ -36,3 +36,4 @@ echo
 echo Install RabbitMQ
 apt-get install -y rabbitmq-server
 echo install success!
+echo
